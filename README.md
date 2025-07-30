@@ -1,4 +1,6 @@
 🗽 NYC Airbnb Data Analysis Project
+
+
 This project presents a complete end-to-end data analysis of Airbnb listings in New York City using SQL, Python (Pandas, Matplotlib, Seaborn), and Power BI. It focuses on extracting meaningful insights related to price distribution, neighborhood popularity, host behavior, and availability, ultimately helping stakeholders understand the dynamics of the NYC short-term rental market.
 
 🔍 Project Objectives
